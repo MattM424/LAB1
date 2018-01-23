@@ -1,0 +1,6 @@
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\obj\Debug\LAB1.0.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\bin\Debug\LAB1.0.exe.config
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\bin\Debug\LAB1.0.exe
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\bin\Debug\LAB1.0.pdb
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\obj\Debug\LAB1.0.exe
+c:\users\ginge\source\repos\LAB1.0\LAB1.0\obj\Debug\LAB1.0.pdb
